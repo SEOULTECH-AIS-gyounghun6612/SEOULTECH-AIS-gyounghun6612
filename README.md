@@ -1,5 +1,5 @@
 contact E-mail
-dev.gyounghun6612@gmail.com
+keonghun6612@seoultech.ac.kr
 
 Lab Page
 https://ais.seoultech.ac.kr
